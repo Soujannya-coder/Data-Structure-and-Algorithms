@@ -1,3 +1,5 @@
+Code to check prime numbers in C:
+
 #include <stdio.h>
 int main(){
 
