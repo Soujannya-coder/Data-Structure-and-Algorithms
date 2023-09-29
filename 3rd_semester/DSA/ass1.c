@@ -1,3 +1,5 @@
+//Entry level code to learn switchCase
+
 #include <stdio.h>
 #include <stdlib.h>
 
